@@ -6,7 +6,6 @@ import { AiOutlineTwitter } from 'react-icons/ai'
 import { AiFillGithub } from 'react-icons/ai'
 import { FaTelegramPlane } from 'react-icons/fa'
 import Link from 'next/link'
-import liam from '../public/liam.png'
 
 const inter = Inter({ subsets: ['latin'] })
 
