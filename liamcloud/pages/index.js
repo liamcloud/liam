@@ -42,7 +42,7 @@ export default function Home() {
             <AiFillGithub />
           </Link>
           <Link
-            href="https://github.com/liamcloud"
+            href="mailto:liamcloud@protonmail.com"
             target="_blank"
             className="socialEl"
           >
