@@ -20,23 +20,33 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
-        <div>
-
-        </div>
-        <div className='grid'>
+        <div></div>
+        <div className="grid">
           <div>
             <h1>Liam Cloud</h1>
           </div>
         </div>
-        <div className='socials'>
-          <Link href="https://www.twitter.com/imliamcloud" target="_blank" className='socialEl'>
-          <AiOutlineTwitter />
+        <div className="socials">
+          <Link
+            href="https://www.twitter.com/imliamcloud"
+            target="_blank"
+            className="socialEl"
+          >
+            <AiOutlineTwitter />
           </Link>
-          <Link href="https://github.com/liamcloud" target="_blank" className='socialEl'>
-          <AiFillGithub />
+          <Link
+            href="https://github.com/liamcloud"
+            target="_blank"
+            className="socialEl"
+          >
+            <AiFillGithub />
           </Link>
-          <Link href="https://github.com/liamcloud" target="_blank" className='socialEl'>
-          <FaTelegramPlane />
+          <Link
+            href="https://github.com/liamcloud"
+            target="_blank"
+            className="socialEl"
+          >
+            <FaTelegramPlane />
           </Link>
         </div>
       </main>
