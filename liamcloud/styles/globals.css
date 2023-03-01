@@ -122,3 +122,29 @@ h1 {
 .socials {
   display: flex;
 }
+
+.header{
+  padding:5rem;
+  font-size: 2rem;
+  font-family: "UnifrakturMaguntia", cursive;
+}
+
+.article{
+  display:flex;
+  flex-direction: column;
+}
+
+.article p {
+  font-size: 1.5rem;
+  max-width: 50%;
+  margin:0 auto;
+  padding:1rem;
+}
+
+.article h3 {
+  font-size: 2.5rem;
+  max-width: 50%;
+  margin:0 auto;
+  padding:1rem;
+}
+
