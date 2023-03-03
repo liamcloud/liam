@@ -148,3 +148,15 @@ h1 {
   padding:1rem;
 }
 
+.images{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  max-width: 50%;
+  margin:0 auto;
+  gap:1rem;
+}
+
+.link {
+  color:skyblue;
+}
+
