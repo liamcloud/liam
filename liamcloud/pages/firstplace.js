@@ -13,7 +13,7 @@ const firstPlace = () => {
                 </div>
                 <div className="pwrap">
                 <p className="note">Note: most of this is inspired by Balaji’s book <Link target="_blank" className="link" href="https://www.amazon.com/Network-State-How-Start-Country-ebook/dp/B09VPKZR3G/ref=sr_1_1?crid=2JEZMD9SPQN94&keywords=network+state&qid=1677861364&sprefix=netork+stat%2Caps%2C229&sr=8-1">“The Network State”</Link> and the ideas behind <Link className="link" target="_blank" href="https://www.praxissociety.com/">Praxis Society</Link></p>
-                <p>First Place is a highly aligned internet community maybe aiming for diplomatic recognition.</p>
+                <p>First Place is a highly aligned internet community not aiming for diplomatic recognition.</p>
                 <p>We all have our Leviathan, some of us do by faith, some of us by constraint.</p>
                 <p>Leviathan is a sea serpent noted in theology and mythology. It is nowadays mostly used to describe a powerful force, something of enormous size.</p>
                 <p>The oldest Leviathan of humanity is god. “God is dead” said Nietzsche in the late 19th century.</p>
